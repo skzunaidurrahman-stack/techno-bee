@@ -1,0 +1,6 @@
+{
+  "name": "Melli — Master 3D Artistry",
+  "description": "A scroll-driven 3D landing page featuring an iridescent honeybee and cinematic floral depth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
